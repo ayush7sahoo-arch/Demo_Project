@@ -1,3 +1,3 @@
 # Demo_Project
 Just for fun
-author: Ayush
+author: Ayush Sahoo
